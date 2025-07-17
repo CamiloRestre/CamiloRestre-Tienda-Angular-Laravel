@@ -1,0 +1,13 @@
+/* Estilos adicionales para el navbar */
+.navbar {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.nav-link.active {
+  font-weight: bold;
+  border-bottom: 2px solid white;
+}
+
+.container {
+  padding-bottom: 2rem;
+}
